@@ -9,7 +9,13 @@ yangshun:
     linkedin: yangshun
     github: yangshun
     newsletter: https://www.greatfrontend.com
-
-
-  
  
+Raj:
+  name: Raj Nisad
+  title: Project Contributer
+  url: https://linkedin.com/
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    linkedin: Raj
+    github: Raj

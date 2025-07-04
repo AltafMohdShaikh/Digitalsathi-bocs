@@ -1,11 +1,11 @@
 ---
 slug: first-blog-post
-title: First Blog Post
-authors: yangshun
-tags: [hola, docusaurus]
+title: How to use Google?
+authors: Raj
+tags: [google]
 ---
 
-Lorem ipsum dolor sit amet...
+It as easy as eating a candy..
 
 <!-- truncate -->
 

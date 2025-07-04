@@ -3,17 +3,22 @@ facebook:
   permalink: /facebook
   description: Facebook tag description
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+google:
+  label: Google
+  permalink: /google
+  description: Learn how to search smarter and use Google's tools effectively.
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+quora:
+  label: Quora
+  permalink: /quora
+  description: Discover how to ask and answer questions on Quora for digital knowledge sharing.
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+linkedin:
+  label: LinkedIn
+  permalink: /linkedin
+  description: Build your professional digital presence and connect on LinkedIn.
+
+digilocker:
+  label: DigiLocker
+  permalink: /digilocker
+  description: Securely store and access digital documents with DigiLocker.
